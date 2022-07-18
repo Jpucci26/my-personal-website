@@ -1,3 +1,10 @@
 body{
     background: #b5e7eb;
 }
+/*editing size of #sunnyPic1*/
+
+#sunnyPic1{
+    width: 512x;
+    aspect-ratio: auto 88 ;
+    height: 342px;
+}
