@@ -10,5 +10,8 @@ body{
 }
 /*font size for image captions*/
 figure{
-    font-size: x-small;
+    font-size: small;
+}
+div{
+    width: 100;
 }
