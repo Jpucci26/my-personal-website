@@ -8,3 +8,7 @@ body{
     aspect-ratio: auto 88 ;
     height: 342px;
 }
+/*font size for image captions*/
+figure{
+    font-size: x-small;
+}
